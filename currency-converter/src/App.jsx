@@ -1,9 +1,9 @@
 import Header from "./components/Header"
 import "./App.scss"
 import { useState } from "react"
-import useCurrencyInfo from "./hooks/UseCurrencyInfo.js"
 import { InputBox } from './components/index.js'
 import Footer from "./components/Footer/index.jsx"
+import useCurrencyInfo from "./hooks/UseCurrencyInfo.js"
 
 function App() {
 
